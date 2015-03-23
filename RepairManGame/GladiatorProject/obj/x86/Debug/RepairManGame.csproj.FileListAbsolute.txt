@@ -1,0 +1,9 @@
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.exe
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.pdb
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.exe
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.pdb
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\obj\x86\Debug\RepairManGame.csprojResolveAssemblyReference.cache

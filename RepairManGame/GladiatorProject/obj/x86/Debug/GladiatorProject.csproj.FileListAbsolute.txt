@@ -1,0 +1,58 @@
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.exe
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.pdb
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\obj\x86\Debug\GladiatorProject.exe
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\obj\x86\Debug\GladiatorProject.pdb
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\obj\x86\Debug\GladiatorProject.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\LinkIdle1.png
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\LinkWalking1.png
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\GrassBlock.png
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Flash1.png
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Flash2.png
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Bkg0.png
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Bkg1.png
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Jump.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Run.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Balrog's Theme.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Running Hell.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Jump2.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Run2.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\BackgroundPlain.jpg
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Jump3.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Jump4.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Jump5.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Theme1.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Microsoft.wav
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Textures\TextureData.txt
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Transparency.png
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\MyFont.xnb
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\Bkg2.png
+C:\Users\Aaron\Desktop\CS Projects\GladiatorProject\GladiatorProject\bin\WindowsGL\Debug\Content\GoblinIdle.png
+C:\Users\Aaron\Desktop\CS Projects\GODDESS\GladiatorProject\obj\x86\Debug\GladiatorProject.exe
+C:\Users\Aaron\Desktop\CS Projects\GODDESS\GladiatorProject\obj\x86\Debug\GladiatorProject.pdb
+C:\Users\Aaron\Desktop\CS Projects\GODDESS\GladiatorProject\obj\x86\Debug\GladiatorProject.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\CS Projects\GODDESS\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.exe
+C:\Users\Aaron\Desktop\CS Projects\GODDESS\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.pdb
+C:\Users\Aaron\Desktop\CS Projects\GODDESS\GladiatorProject\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Aaron\Desktop\CS Projects\GODDESS\GladiatorProject\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Desktop\CS Projects\GODDESS\GladiatorProject\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Aaron\Desktop\CS Projects\GODDESS\GladiatorProject\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.exe
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.pdb
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.exe
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.pdb
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Aaron\Desktop\CS Projects\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\RepairManGame\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.exe
+C:\Users\Mark\Desktop\RepairManGame\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.pdb
+C:\Users\Mark\Desktop\RepairManGame\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.exe
+C:\Users\Mark\Desktop\RepairManGame\RepairManGame\GladiatorProject\bin\WindowsGL\Debug\GladiatorProject.pdb
+C:\Users\Mark\Desktop\RepairManGame\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\Gladiator-Project\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.exe
+C:\Users\Mark\Documents\GitHub\Gladiator-Project\RepairManGame\GladiatorProject\obj\x86\Debug\GladiatorProject.pdb
