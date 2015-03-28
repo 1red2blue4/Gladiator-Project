@@ -1,3 +1,12 @@
+//Galactic Repair
+    //Aaron Collins
+    //Daniel Lowery
+    //Mark Obeldobel
+    //Alex Stiffman
+//Professor Bierre
+//IGME-106
+//8:00 a.m.
+
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
