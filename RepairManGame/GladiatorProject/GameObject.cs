@@ -1,4 +1,13 @@
-﻿#region Using Statements
+//Galactic Repair
+    //Aaron Collins
+    //Daniel Lowery
+    //Mark Obeldobel
+    //Alex Stiffman
+//Professor Bierre
+//IGME-106
+//8:00 a.m.
+
+#region Using Statements
 using System;
 using System.Collections.Generic;
 using Microsoft.Xna.Framework;
@@ -43,27 +52,38 @@ namespace GladiatorProject
         Texture2D sprite;
         AnimationData currentAnimation;
         Animations animation;
-        bool isColliding;
+        bool canCollide;
         bool onScreen;
 
-        public GameObject(string nm, Vector2 pos, Rectangle htBx, Animations anmtn)
+        public GameObject(string nm, Vector2 pstn, Animations anmtn, Texture2D sprt, bool cnClld, bool nScrn)
         {
             //parameters
             name = nm;
-            position = pos;
-            hitBox = htBx;
+            position = pstn;
             animation = anmtn;
+            sprite = sprt;
 
-            //reference calls to other classes
+            //Initialize a starting animation, and a hitbox based upon parameters
             currentAnimation = animation.getSprite(name);
-            sounds = ContentManager.GetSounds(name);
+            hitBox = new Rectangle((int)position.X, (int)position.Y, sprite.Width, sprite.Height);
 
-            isColliding = false;
-            onScreen = false;
-            //these two will be false by default; logic will have to determine whether they are true or false
+            //more parameters
+            canCollide = false; //default false
+            onScreen = false; //default false
+            sounds = ContentManager.GetSounds(name);
         }
 
+        //primary update method
+        public virtual void Update()
+        {
 
-       
+        }
+
+        //primary draw method
+        public virtual void Draw()
+        {
+
+        }
+
     }
 }
